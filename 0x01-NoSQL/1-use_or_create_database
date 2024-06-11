@@ -1,1 +1,2 @@
-use my_db
+// create my_db db.
+use my_db;
