@@ -1,2 +1,2 @@
 //list docs from school where name = 'Holberton school'.
-db.school.find({name : "Holberton school"}).foreach(printjson);
+db.school.find({name : "Holberton school"})
