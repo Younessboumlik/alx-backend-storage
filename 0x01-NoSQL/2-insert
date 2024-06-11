@@ -1,3 +1,4 @@
+// insert in school collection.
 db.school.insertOne({
 name : "Holberton school"
-})
+});
