@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-using pymongo
-"""
+"""using pymongo"""
 
 
 def insert_school(mongo_collection, **kwargs):
