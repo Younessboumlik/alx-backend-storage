@@ -1,3 +1,4 @@
+-- Write a SQL script that creates a trigger that resets the attribute valid_email
 CREATE TRIGGER reset_valid_email
 BEFORE UPDATE ON users
 FOR EACH ROW
